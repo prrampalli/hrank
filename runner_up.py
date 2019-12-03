@@ -16,8 +16,6 @@ if __name__ == '__main__':
                 high = arr[i]
         print(secondMax)
 
-
-
 '''
 # Other way of doing it is to write another function
 def Remove_dupe(arr):
