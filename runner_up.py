@@ -15,15 +15,3 @@ if __name__ == '__main__':
                 secondMax = high
                 high = arr[i]
         print(secondMax)
-
-'''
-# Other way of doing it is to write another function
-def Remove_dupe(arr):
-    final_list = []
-    for num in arr:
-        if num not in final_list:
-            final_list.append(num)
-    return final_list[-2]
-
-# or you can use print(Remove(duplicate[-2]))
-'''
