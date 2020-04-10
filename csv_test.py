@@ -3,7 +3,7 @@ import os
 
 path = 'C:\\Users\\44779\\Desktop\\Python_tests\\test_data.txt'  # path is function of OS module - so import os module
 
-...
+
 def _convert_row():
     for row in my_list:
         # For row 0
